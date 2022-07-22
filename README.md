@@ -3,13 +3,13 @@
 - 🔭 I’m currently working on Spring Boot Framework.
 - 🌱 I’m currently learning Junit Testing.
 - 👯 I’m looking to collaborate on any exiciting technology.
-<!-- - 🤔 I’m looking for help with ... ->
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything about Java Web Development...
 - 📫 How to reach me: Here is my LinkedIn: [linkedin](https://www.linkedin.com/in/shubhamkumaroffice/)...
 - 😄 Pronouns: His/HIM...
 - ⚡ Fun fact: ...
 
-![](https://komarev.com/ghpvc/?username=abhigitzone&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=shubhamgitzone&label=PROFILE+VIEWS)
 
 ## &#x1f4c8; GitHub Stats
  <a href="https://github.com/shubhamgitzone/shubhamgitzone">
