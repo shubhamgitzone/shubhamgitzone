@@ -9,6 +9,7 @@
 - 😄 Pronouns: His/HIM...
 - ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=abhigitzone&label=PROFILE+VIEWS)
 
 ## &#x1f4c8; GitHub Stats
  <a href="https://github.com/shubhamgitzone/shubhamgitzone">
